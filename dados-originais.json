@@ -1,0 +1,36 @@
+{
+	"biografia": "Meu nome é Yudi Gabriel Kichi, sou estudante de Engenharia de Computação, nascido em Tajimi - Japão atualmente moro em Cornélio Procópio - PR",
+	"interesses": ["Segurança da Informação","Banco de Dados","Web","Línguas Estrangeiras"],
+	"idiomas": ["Inglês Intermediário B1","Japonês Intermediário N3"],
+    "formacao": ["2012 - Ensino Médio", "2019/UTFPR - Engenharia de Computação"],
+    "atividades": ["Projeto de Extensão de ensino da Língua Inglesa - Professor"],
+    "habilidades": ["C","Java","SQL","CSS","HTML5","Adaptabilidade","Trabalho em Grupo","Proatividade"],
+    "news": [
+        {
+            "title":"Festival Paranaense de Taikô",
+            "data":"04/10/2018",
+            "autor":"",
+            "descricao":"Paranavaí sediará XV Festival Paranaense de Taikô"
+        },
+        {
+            "title":"Campeonato Brasileiro de Taikô",
+            "data":"20/08/2018",
+            "autor":"",
+            "descricao":"Serra Negra sedia Campeonato Brasileiro de Taikô"
+        },
+        {
+            "title":"Campeão Brasileiro de Taikô",
+            "data":"11/09/2018",
+            "autor":"",
+            "descricao":"Taiko de Dracena é o melhor do Brasil na categoria junior"
+        }
+    ],
+    "portifolio": [
+        {
+            "descricao": "Professor Projeto de Extensão Abrindo Portas do ensino da Língua Inglesa para ensino médio de escolas públicas."
+        },
+        {
+            "descricao": "Trabalho de faculdade: desenvolvimento de um aplicativo de dicionário pessoal em plataforma android."
+        }
+    ]
+}
